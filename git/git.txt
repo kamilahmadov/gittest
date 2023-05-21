@@ -1,0 +1,21 @@
+# GIT COMMANDS
+clone - bring a repository that is hosted somewhere like Github into a folder on your local machine
+add - track your files and changes in Git
+commit - save your files in Git
+push - upload git commits to a remote repo, like Github
+pull - download changes from remote repo to your local machine, the opposit of push
+ls -la - show all files (uncluding hidden)
+clear - to clear
+gti status - files that updated, created, deleted but didn't commited
+git add . - to add all new files
+git add 'file_name' - to add a particular file
+
+
+
+# HOW TO OPEN BASH IN TERMINAL
+The easiest way is to press down CTRL + SHIFT + P and then type in “select default profile“.
+
+The drop-down includes every shell that is installed in your system that VS Code was able to detect.
+
+Now simply select Git Bash and open up a new terminal window by pressing down CTRL + SHIFT + ~ (tilde) to check if Git Bash opens up as the default terminal.
+
